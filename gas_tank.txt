@@ -1,0 +1,4 @@
+
+regular, 5000, 2.0
+mid-grade, 5000, 3.1
+premium, 5000, 2.24
